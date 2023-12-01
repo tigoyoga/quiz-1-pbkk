@@ -1,0 +1,16 @@
+D:\Image-Gallery-master\Image-Gallery-master\Image Gallery\bin\Debug\net7.0-windows\Image Gallery.exe
+D:\Image-Gallery-master\Image-Gallery-master\Image Gallery\bin\Debug\net7.0-windows\Image Gallery.deps.json
+D:\Image-Gallery-master\Image-Gallery-master\Image Gallery\bin\Debug\net7.0-windows\Image Gallery.runtimeconfig.json
+D:\Image-Gallery-master\Image-Gallery-master\Image Gallery\bin\Debug\net7.0-windows\Image Gallery.dll
+D:\Image-Gallery-master\Image-Gallery-master\Image Gallery\bin\Debug\net7.0-windows\Image Gallery.pdb
+D:\Image-Gallery-master\Image-Gallery-master\Image Gallery\obj\Debug\net7.0-windows\Image_Gallery.Form1.resources
+D:\Image-Gallery-master\Image-Gallery-master\Image Gallery\obj\Debug\net7.0-windows\Image Gallery.csproj.GenerateResource.cache
+D:\Image-Gallery-master\Image-Gallery-master\Image Gallery\obj\Debug\net7.0-windows\Image Gallery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Image-Gallery-master\Image-Gallery-master\Image Gallery\obj\Debug\net7.0-windows\Image Gallery.AssemblyInfoInputs.cache
+D:\Image-Gallery-master\Image-Gallery-master\Image Gallery\obj\Debug\net7.0-windows\Image Gallery.AssemblyInfo.cs
+D:\Image-Gallery-master\Image-Gallery-master\Image Gallery\obj\Debug\net7.0-windows\Image Gallery.csproj.CoreCompileInputs.cache
+D:\Image-Gallery-master\Image-Gallery-master\Image Gallery\obj\Debug\net7.0-windows\Image Gallery.dll
+D:\Image-Gallery-master\Image-Gallery-master\Image Gallery\obj\Debug\net7.0-windows\refint\Image Gallery.dll
+D:\Image-Gallery-master\Image-Gallery-master\Image Gallery\obj\Debug\net7.0-windows\Image Gallery.pdb
+D:\Image-Gallery-master\Image-Gallery-master\Image Gallery\obj\Debug\net7.0-windows\Image Gallery.genruntimeconfig.cache
+D:\Image-Gallery-master\Image-Gallery-master\Image Gallery\obj\Debug\net7.0-windows\ref\Image Gallery.dll
